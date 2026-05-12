@@ -185,7 +185,7 @@ airlines =
 name = Yangzhou Taizhou Intl., yang zhou
 code = YA
 runways =
-	YA17, 17, N32.34.52, E119.42.56, 167, 10500, 130, 130, 16, 3, 167, 3, 347, FF17, 5.5, FF35, 6.0, 130.45, yang zhou tower, 11.3, 5.5, 10.7, 6.0
+	YA17, 17, N32.34.52, E119.42.56, 167, 10500, 130, 130, 16, 3, 167, 3, 347, FF17, 5.5, FF35, 6.0, 130.45, yang zhou tower, 11.3, 11.3, 10.7, 10.7
 
 flow = 2.3
 
@@ -2757,9 +2757,9 @@ route1 =
 [approach128]
 
 runway = YN04, rev
-beacon = NIMEX, N32.56.31, E119.09.38
+beacon = NIXEM, N32.56.31, E119.09.38
 route1 = 
-	067, NIMEX
+	067, NIXEM
 	N32.56.31, E119.09.38, 20000
 	N33.10.43.4, E119.41.01.3
 	N33.18.27.5, E119.57.25.7, 7000
